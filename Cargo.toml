@@ -8,6 +8,5 @@ repository = "https://github.com/aduki-Inc/msboot"
 documentation = "https://docs.rs/msboot"
 homepage = "https://github.com/aduki-Inc/msboot"
 keywords = ["boot", "system", "configuration"]
-categories = ["boot", "system-utilities"]
 
 [dependencies]
